@@ -3,6 +3,7 @@
   - then add the required request body as seen in the shot below
   - this particular request requires an authentication - which is the access token i got from [Register a user](Register_a_user.md)
   - I was able to successfully place an order
+  - one thing i noticed is that with the same token, you can place order for different customer - this how the API is designed
 
 
 <img width="1075" height="882" alt="image" src="https://github.com/user-attachments/assets/167d8856-dc47-43be-a2a1-4d36eac530c4" />
