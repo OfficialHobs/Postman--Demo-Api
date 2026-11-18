@@ -7,3 +7,6 @@
 
 <img width="1082" height="875" alt="image" src="https://github.com/user-attachments/assets/3e70f716-bfb9-45f8-bcc7-d8437e8b2778" />
 
+  **- Test without passing an authorization key in the required field**
+
+<img width="1075" height="931" alt="image" src="https://github.com/user-attachments/assets/d1e223df-6aaa-438d-a64f-bf09ae2eb11d" />
