@@ -8,6 +8,7 @@
   - this test is to see whether API would accept a duplicate registration. (which should not be)
 
 
-<img width="1062" height="890" alt="image" src="https://github.com/user-attachments/assets/0b582ca0-22d6-4602-9b15-77da72692bfa" />
+<img width="1061" height="816" alt="image" src="https://github.com/user-attachments/assets/1a365106-2680-45bb-b9d3-8a2110a32577" />
+
 
   - as expected, this returned an error message 409 - (conflict)
