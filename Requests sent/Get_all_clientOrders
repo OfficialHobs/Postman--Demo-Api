@@ -1,0 +1,2 @@
+**getting all orders**
+  - the get all order endpoint requires authentication: this because it is getting all orders made by a particular user
