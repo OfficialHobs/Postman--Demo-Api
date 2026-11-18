@@ -1,7 +1,8 @@
 **getting all orders**
-  - the GET - get all order endpoint requires authentication: this because it is getting all orders made by a particular user
-  - this ensures that only the required user's data is given as result
-  - if another 'correct' token is used, the data for the bearer of the token will be the output
+  - the GET - get all order endpoint requires authentication: this because it is getting all orders made using a particular token
+  - this ensures that only the required user data is given as result
+  - but then a single user could order with multiple names - which shouldn't be so
+  - if another 'correct' token is used, the data for the bearer token will be the output
   - the authorization section is marked green because we are using an authentication token (access token)
    
 
