@@ -1,6 +1,6 @@
 **Getting only a single book**
   - using the same GET method but this time around, i used a **path parameter** (i.e /:boodid)
-  - this **boodid** is a path variable that stores a value that corresponds to the 'ID = 2' of the book in the server
+  - this **bookid** is a path variable that stores a value that corresponds to the 'ID = 2' of the book in the server
   - using the path variable allowed me to retrieve only a specific book.
 
 
